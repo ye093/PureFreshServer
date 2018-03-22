@@ -15,15 +15,15 @@ module.exports = appInfo => {
       // clientId, 获取client实例，需要通过 app.mysql.get('clientId') 获取
       serp: {
         // host
-        host: '103.45.21.199',
+        host: '',
         // 端口号
         port: '3306',
         // 用户名
-        user: 'yejy',
+        user: '',
         // 密码
-        password: 'kfJINdifc186@*',
+        password: '',
         // 数据库名
-        database: 'serp',
+        database: '',
       },
       // db2: {
       //   // host
